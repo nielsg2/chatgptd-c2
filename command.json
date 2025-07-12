@@ -1,1 +1,20 @@
-{}
+{
+  "task": "echo_test",
+  "description": "Echo readiness and print current timestamp.",
+  "actions": [
+    {
+      "type": "log",
+      "message": "\u2705 chatgptd is online and responding."
+    },
+    {
+      "type": "print",
+      "message": "Timestamp: {{now}}"
+    },
+    {
+      "type": "log_to_file",
+      "path": "logs/startup.log",
+      "message": "chatgptd processed echo_test command at {{now}}"
+    }
+  ],
+  "ts": "2025-07-12T17:00:00"
+}

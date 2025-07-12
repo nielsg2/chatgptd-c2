@@ -1,0 +1,10 @@
+Maintainer: Niels Goldstein
+Project: chatgptd
+Tasks:
+- Create persistent memory layer
+- Scaffold CLI entrypoint
+- Route all calls through API wrapper
+- Implement local file-backed session logs
+- Integrate AI_Directives injection
+- Design dual-mode UX for voice + text
+Version: v0.1.0

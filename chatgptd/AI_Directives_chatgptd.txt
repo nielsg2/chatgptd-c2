@@ -1,0 +1,93 @@
+# ====================================================
+# Filename: AI_Directives_v0.2.8-dev.txt
+# Purpose: Governs AI behavior, memory continuity, output quality, and execution model
+# Repository: Utilsrepo (fallback from local if disconnected)
+# Author: Niels Goldstein (nielsg2)
+# License: MIT License
+# Version: v0.2.8-dev
+# Updated: 2025-06-21
+# ====================================================
+# 🚨 AI MUST READ: Reload File_Usage_Matrix.md and commit changelogs when this file is changed.
+# ====================================================
+
+## Directive 13: Dual Source AI Directive Handling
+- Always attempt to use the MASTER AI_DIRECTIVES.txt from the `Utilsrepo` path.
+- If MASTER is unreachable or in disconnected state, fallback to a local cached copy.
+- Confirm which version is active at session start and notify the user of fallback if applicable.
+- Maintain local sync-check metadata to prevent drift or missed updates.
+
+## Directive 1: File Handling Rules
+- Never rename with *_UPDATED.txt — always update in-place and version-tag filenames.
+- Update all associated metadata (README.md, changelogs, YAML) on every change.
+- Never leave partial or dangling file modifications.
+
+## Directive 2: Output & Presentation
+- Provide downloadable links and explain file purpose, location, and version.
+- Always specify the destination path (e.g., `$CODE_BASE\chatgptd\`).
+- Render inline output if downloads are blocked (e.g., mobile or restricted sessions).
+
+## Directive 3: Script Quality & Behavior
+- Must be syntax-tested and include logging to `C:\LOGS`.
+- Validate and create missing folders or tools.
+- Provide useful console or log messages indicating success or failure.
+
+## Directive 4: Git Hygiene
+- Never commit without explicit instruction: `COMMIT THESE TO GIT`.
+- Include `Meta_Tasks.yml`, `Roadmap.md`, and version-tagged filenames in all commits.
+- Ensure `.gitignore`, pre-commit, and commit message templates are active.
+
+## Directive 5: Integration & Execution
+- All scripts must be executable from the proper subfolder in `$CODE_BASE`.
+- Include WSL, Windows native, and Git Bash compatibility.
+- Setup scripts must validate and fix environment prerequisites.
+
+## Directive 6: AI Autonomy & Continuity
+- Scaffold local daemons that monitor plans, decompose tasks, submit APIs, generate output, and log results.
+- Track execution success/failure persistently.
+- Support local-first execution and token-efficient memory continuity.
+
+## Directive 7: Planning and Roadmap
+- All tasks must appear in `Meta_Tasks.yml` and `Roadmap.md`.
+- Every output must serve a long-term purpose (reusability, automation, health tracking, etc.).
+- Include `planned`, `ongoing`, `completed`, and `versioned` tags.
+
+## Directive 8: Logging
+- Output structured logs to `C:\LOGS`.
+- SQLite support should be initialized or scaffolded where appropriate.
+- Include error context, resource metrics, and execution timestamps.
+
+## Directive 9: User Preferences
+- Always confirm preferred output format and delivery style (download, paste, Git).
+- Treat "make it so" as an implicit instruction to:
+  - Log in `Meta_Tasks.yml`
+  - Update changelog
+  - Prepare for commit
+
+## Directive 10: MASTER the BASICS Rule
+- Never assume environment, folders, or dependencies exist.
+- Proactively fix issues, report actions, and use full paths under `$CODE_BASE`.
+
+## Directive 11: Session Token Monitoring & Reset
+- Track and warn at ~80% token usage.
+- Re-request `AI_Directives.txt`, `Meta_Tasks.yml`, and `Roadmap.md` at session resets.
+- Use token-aware scaffolds when context-sensitive planning is underway.
+
+## Directive 12: Backlog Continuity Safeguard
+- Confirm most recent versions of all planning files before any modification.
+- Log edits and their rationale automatically when feasible.
+
+## Final Notes:
+- Every directive is assumed to apply to ALL repos unless stated otherwise.
+- Updates to this file must be committed and versioned.
+
+## Directive 14: Canonical Directive File Placement
+- All AI_DIRECTIVES must exist in 3 places:
+  1. Versioned in `Utilsrepo\directives` (e.g., `AI_Directives_v0.2.9-dev.txt`)
+  2. Named `AI_Directives.txt` in the same folder for canonical access
+  3. Duplicated as `AI_Directives.txt` in the current active repo (e.g., `chatgptd\directives`)
+- All placements must use absolute path references in documentation and table form.
+
+## Directive 15: Human-Centric Session Health
+- Maintain an internal session timer from first user message.
+- Remind the user to take a break **every 90 minutes at most**.
+- Ensure reminders are friendly, unobtrusive, and contextually aware.

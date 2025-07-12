@@ -1,0 +1,166 @@
+Privacy Policy
+Last Updated: April 7, 2025
+
+Deal.ai Inc. ("deal.ai," "we," "our," and/or "us") values the privacy of individuals who use our website, https://deal.ai ("Site"). This privacy policy ("Privacy Policy") explains how we collect, use, and share Personal Information from or about our users or their devices. As used in this Privacy Policy, "Personal Information" means any information relating to an identified or identifiable individual. By using our Site, you agree to the collection, use, disclosure, sharing, and procedures this Privacy Policy describes. Beyond the Privacy Policy, your use of our Site is also subject to our Terms of Service.
+
+INFORMATION WE COLLECT
+We may collect a variety of Personal Information from or about you or your devices from various sources, as described below. Where applicable, we indicate whether and why you must provide us with your Personal Information, as well as the consequences of failing to do so. If you do not provide Personal Information when requested, you may not be able to benefit from our Site if that information is necessary to provide you with them or if we are legally required to collect it.
+
+A. Information You Provide to Us
+
+Account Creation, Events, and Trainings. When you sign up for an account or register for an event or training on our Site, we will ask you for your Personal Information, including your name, email address, phone number, and billing information as described further in the "Payments" section below.
+
+Communications. If you contact us directly, we may receive other Personal Information about you. For example, when you contact us to learn more about deal.ai or for customer support, we may receive your name, email address, and the contents of your message or attachments that you may send to us, as well as any other information you choose to provide to us. If you subscribe to receive marketing or promotional communications for us, then we will collect certain information from you, such as your email address. When we send you emails, we may track whether you open them to learn how to deliver a better customer experience and to improve our Site.
+
+Careers. If you decide to apply for a job with us, you may submit your contact information and your resume online. We will collect the information you choose to provide on your resume or application, such as your education and employment experience. You may also apply through a third-party service such as LinkedIn. If you do so, we will collect any information you make available to us via such third- party platform.
+
+Payments. When you make a payment via our Site, your payment card information, billing information, and any other Personal Information necessary to complete your payment ("Payment Information") is processed by our third-party payment processor. For more information, please see the "Payment Processing" section below.
+
+B. Information We Collect When You Use Our Site
+
+Location Information. When you use our Site, we may receive your location information (for example, your IP address may indicate your general geographic region).
+
+Device Information. We receive information about the device and software you use to access our Site, including IP address, device type, device identifiers, web browser type and version, and operating system version.
+
+Usage Information. To help us understand how you use our Site and to help us improve it, we automatically receive information about your interactions with our Site, like the pages or other content you view, the content you download, referrer information (the website you visited before coming to our Site), and the dates and times of your visits.
+
+Information from Cookies and Similar Technologies. We and our third-party partners may collect Personal Information using cookies, which are small files of letters and numbers that we store on your browser or the hard drive of your computer. They contain information that is transferred to your computer's hard drive. We and our third-party partners may also use pixel tags and web beacons on our Site. These are tiny graphic images placed on web pages or in our emails that allow us to determine whether you have performed a specific action. We use cookies, beacons, invisible tags, and similar technologies (collectively "Cookies") to collect information about your browsing activities and to distinguish you from other users of our Site. This aids your experience when you use our Site and allows us to improve the functionality of our Site. Cookies can be used for performance management (i.e., collecting information on how our Site is being used for analytics purposes). They can also be used for functionality management, enabling us to make your visit more efficient by, for example, remembering language preferences, passwords, and log-in details. Below is an overview of the types of Cookies we and third parties may use to collect Personal Information.
+
+• Strictly Necessary Cookies. Some Cookies are strictly necessary to make our Site available to you. We cannot provide you with our Site without this type of Cookies. We use the following necessary Cookies:
+
+Name	More Information	Retention
+_cf_bm	This cookie is used to distinguish between humans and bots. This is beneficial for our Site, in order to make valid reports on the use of their website.	30 minutes
+cf:name	This cookie is used for identifying individual visitors privately and securely, enhancing our Site's performance and security.	1 year
+is_eu	This cookie is used to remember a user's consent to the use of cookies on our Site, specifically tracking whether the user has acknowledged the use of cookies within the EU region to comply with legal	Session
+• Functional Cookies. Functional Cookies are used to recognize you when you return to our Site. This enables us to adapt our content for you and remember your preferences. For example, we use functional Cookies to remember your choice of language or region. We use the following functional Cookies:
+
+Name	More Information	Retention
+vuid	These cookies are used by the Vimeo video player on our Site.	1 year 1 month
+cf:term	This cookie is used to store and track interactions and user search terms within our Site to improve content relevancy and user experience.	1 year
+_cfuvid	This cookie is used for purposes of tracking users across sessions to optimize user experience by maintaining session consistency and providing personalized services.	Session
+cf:content	This cookie is used to optimize and personalize the content delivery to the user by remembering a user's interactions and preferences on our Site.	1 year
+• Analytical or Performance Cookies. We also use Cookies for website analytics purposes to operate, maintain and improve our Site. We may use our own analytics Cookies or use third- party analytics providers. These providers may also collect information about your use of other websites, apps, and online resources. We also use the following analytical or performance Cookies:
+
+Name	More Information	Retention
+cf:visitor_id	This cookie is used to identify individual visitors to our Site and track their interactions and preferences to enhance their browsing experience.	1 year
+_ga_6810T3KZEX	This cookie is used by Google Analytics to persist session state.	1 year 1 month
+_ga	This cookie name is associated with Google Universal Analytics. This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session, and campaign data for our Site's analytics reports.	1 year 1 month
+cf:source	This cookie is used to identify the source of traffic to our Site for performance measurement and optimization.	1 year
+cf:aff_sub	This cookie is used to track and report on the actions of users who have clicked on an affiliate link to determine potential referrals for marketing purposes.	1 year
+cf:affiliate_id	This cookie is set to identify and track the performance and effectiveness of affiliate marketing campaigns by storing an identifier for the referring	1 year
+cf:medium	This cookie is used to track the medium (e.g., email, social, referral) that directed the user to our Site, helping in analysis and optimization of traffic sources.	1 year
+_ga_BQBYXDJH74	This cookie is used by Google Analytics to persist session state.	1 year 1 month
+cf:aff_sub2	This cookie is used to identify the specific marketing campaign that referred a visitor. It helps in tracking the effectiveness of affiliate marketing campaigns.	1 year
+cf:aff_sub3	This cookie is associated with the affiliate tracking functionality. It is used to track and attribute actions or sales to the relevant affiliates based on a unique affiliate ID assigned in the URL parameter.	1 year
+Please review your web browser's "Help" file to learn the proper way to modify your cookie settings. Please note that if you delete or choose not to accept cookies from our Site, you may not be able to utilize the features of our Site to their fullest potential. You can find more information about your rights and choices, and how to block the use of certain Cookies in the section Your Rights and Choices below.
+
+C. Information We Receive from Third Parties
+
+Third Parties. We may receive additional Personal Information about you from third parties, such as marketing or data partners. We may combine information that we collect from you through our Site with information that we obtain from such other parties. If you wish to limit the Personal Information available to us from third-party services, you should visit the privacy settings of your third-party accounts to learn about your options.
+
+Other Third Parties. We may receive additional information about you, from third parties such as data or marketing partners and combine it with other information we have about you.
+
+D. Payment Processing
+
+When you make a payment through our Site, your payment is processed by our third-party payment processor, Stripe. Stripe may collect personal information from you, including your name, email address, billing address, and Payment Information in connection with your donation. The use of your personal information by Stripe is governed by its terms and conditions and privacy policy, and personal information we receive about you from our Payment Processor is governed by this Privacy Policy.
+
+HOW WE USE THE INFORMATION WE COLLECT
+We use the Personal Information we collect:
+
+• To provide, maintain, improve, and enhance our Site;
+
+• To personalize your experience on our Site such as by providing tailored content and recommendations;
+
+• To understand and analyze how you use our Site and develop new products, services, features, and functionality;
+
+• To communicate with you, provide you with updates and other information relating to our Site, provide information that you request, respond to comments and questions, and otherwise provide customer service and support;
+
+• To facilitate the connection of third-party services or applications;
+
+• For marketing and advertising purposes, such as developing and providing promotional and advertising materials that may be relevant, valuable, or otherwise of interest to you;
+
+• To generate anonymized or aggregate data containing only de-identified, non-Personal Information that we may use for any lawful purposes;
+
+• To send you text messages and push notifications;
+
+• To find and prevent fraud and abuse, and respond to trust and safety issues that may arise;
+
+• For compliance purposes, including enforcing our Terms of Service or other legal rights, or as may be required by applicable laws and regulations or requested by any judicial process or governmental agency; and
+
+• For other purposes for which we provide specific notice at the time the information is collected.
+
+GOOGLE API USE
+We use Google Workspace APIs (such as Google Drive API) to provide features within our Site. We do not use data obtained through Google Workspace APIs to develop, improve, or train generalized artificial intelligence (AI) or machine learning (ML) models.
+
+LEGAL BASES FOR PROCESSING EUROPEAN INFORMATION
+If you are located in the European Economic Area ("EEA") or the United Kingdom ("UK"), we only process your Personal Information when we have a valid "legal basis," including as set forth below.
+
+Consent. We may process your Personal Information where you have consented to certain processing of your Personal Information. For example, we may process your Personal Information to send you marketing communications or to use Cookies where you have consented to such use.
+
+Contractual Necessity. We may process your Personal Information where required to provide you with our Site. For example, we may need to process your Personal Information to respond to your inquiries or requests.
+
+Compliance with a Legal Obligation. We may process your Personal Information where we have a legal obligation to do so. For example, we may process your Personal Information to comply with tax, labor, and accounting obligations.
+
+Legitimate Interests. We may process your Personal Information where we or a third party have a legitimate interest in processing your Personal Information. Specifically, we have a legitimate interest in using your Personal Information for product development and internal analytics purposes, and otherwise to improve the safety, security, and performance of our Site. We only rely on our or a third party's legitimate interests to process your Personal Information when these interests are not overridden by your rights and interests.
+
+HOW WE SHARE THE INFORMATION WE COLLECT
+Affiliates or Subsidiaries. We may share any information we receive with our affiliates or subsidiaries for any of the purposes described in this Privacy Policy.
+
+Vendors and Service Providers. We may share any information we receive with vendors and service providers retained in connection with the provision of our Site.
+
+Marketing. We do not rent, sell, or share information about you with nonaffiliated companies for their direct marketing purposes unless we have your permission.
+
+Analytics Partners. We use analytics services such as Google Analytics to collect and process certain analytics data. You can learn more about Google's practices by visiting https://www.google.com/policies/privacy/partners/.
+
+As Required by Law and Similar Disclosures. We may access, preserve, and disclose your information if we believe doing so is required or appropriate to: (a) comply with law enforcement requests and legal process, such as a court order or subpoena; (b) respond to your requests; or (c) protect your, our, or others' rights, property, or safety. For the avoidance of doubt, the disclosure of your information may occur if you post any objectionable content on or through our Site.
+
+Merger, Sale, or Other Asset Transfers. We may transfer your information to service providers, advisors, potential transactional partners, or other third parties in connection with the consideration, negotiation, or completion of a corporate transaction in which we are acquired by or merged with another company or we sell, liquidate, or transfer all or a portion of our assets. The use of your information following any of these events will be governed by the provisions of this Privacy Policy in effect at the time the applicable information was collected.
+
+Consent. We may also disclose information from or about you or your devices with your permission.
+
+All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+
+YOUR RIGHTS AND CHOICES
+Marketing Communications. You can unsubscribe from our promotional emails via the link provided in the emails and opt out of marketing SMS messages by following the instructions provided in the SMS messages. Even if you opt out of receiving promotional messages from us, you will continue to receive administrative messages from us.
+
+Do Not Track. There is no accepted standard on how to respond to Do Not Track signals, and we do not respond to such signals.
+
+If you choose not to provide us with information we collect, some features of our Site may not work as intended.
+
+Your European Privacy Rights. If you are located in the EEA or the UK, you have additional rights described below.
+
+• You may request access to the Personal Information we maintain about you, update, and correct inaccuracies in your Personal Information, restrict or object to the processing of your Personal Information, have your Personal Information anonymized or deleted, as appropriate, or exercise your right to data portability to easily transfer your Personal Information to another company. In addition, you also have the right to lodge a complaint with a supervisory authority, including in your country of residence, place of work or where an incident took place.
+
+• You may withdraw any consent you previously provided to us regarding the processing of your Personal Information at any time and free of charge. We will apply your preferences going forward and this will not affect the lawfulness of the processing before you withdrew your consent.
+
+You may exercise these rights by contacting us using the contact details at the end of this Privacy Policy. Before fulfilling your request, we may ask you to provide reasonable information to verify your identity. Please note that there are exceptions and limitations to each of these rights, and that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain Personal Information for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.
+
+How to Block Cookies. You can block Cookies by setting your internet browser to block some or all Cookies. However, if you use your browser settings to block all Cookies (including essential Cookies) you may not be able to access all or parts of our Site. By using our Site, you consent to our use of Cookies and our processing of Personal Information collected through such Cookies, in accordance with this Privacy Policy. You can withdraw your consent at any time by deleting placed Cookies and disabling Cookies in your browser, or as explained below. You can change your browser settings to block or notify you when you receive a Cookie, delete Cookies, or browse our Site using your browser's anonymous usage setting. Please refer to your browser instructions or help screen to learn more about how to adjust or modify your browser settings. If you do not agree to our use of Cookies or similar technologies which store information on your device, you should change your browser settings accordingly. You should understand that some features of our Site may not function properly if you do not accept Cookies or these technologies. Where required by applicable law, you will be asked to consent to certain Cookies and similar technologies before we use or install them on your computer or other device.
+
+If you choose not to provide us with information we collect, some features of our Site may not work as intended.
+
+THIRD PARTIES
+Our Site may contain links to other websites, products, or services that we do not own or operate ("Third-Party Services"). We are not responsible for the privacy practices of these Third-Party Services. Please be aware that this Privacy Policy does not apply to your activities on these Third-Party Services or any information you disclose to these Third-Party Services. We encourage you to read the privacy policies of these Third-Party Services.
+
+RETENTION
+When you request that we do so, we take measures to delete your Personal Information or keep it in a form that does not permit identifying you when this information is no longer necessary for the purposes for which we process it, unless we are required by law to keep this information for a longer period. When we process Personal Information for our own purposes, we determine the retention period taking into account various criteria, such as the type of services provided to you, the nature and length of our relationship with you, possible re-enrollment with our Site, the impact on our Site we provide to you if we delete some information from or about you, and mandatory retention periods provided by law and the statute of limitations.
+
+SECURITY
+We make reasonable efforts to protect your Personal Information by using physical and electronic safeguards designed to improve the security of the Personal Information we maintain. However, as our Site is hosted electronically, we can make no guarantees as to the security or privacy of your Personal Information.
+
+INTERNATIONAL USERS AND VISITORS
+Our Site is hosted in the United States ("U.S.") and intended for visitors located within the U.S. If you choose to use our Site from the EEA, the UK, or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your Personal Information outside of those regions to the U.S. for storage and processing. We may transfer Personal Information from the EEA or the UK to the U.S. and other third countries based on European Commission-approved or UK Government-approved Standard Contractual Clauses, or otherwise in accordance with applicable data protection laws. We may also transfer your data from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating our Site. By providing any information, including Personal Information, on or to our Site, you consent to such transfer, storage, and processing. For more information about the tools that we use to transfer Personal Information, or to obtain a copy of the contractual safeguards we use for such transfers (if applicable), you can contact us as described below.
+
+CHILDREN'S PRIVACY
+We do not knowingly collect, maintain, or use Personal Information from children under 16 years of age ("Minors"), and no parts of our Site is directed to Minors. If you learn that a Minor has provided us with Personal Information in violation of this Privacy Policy, then you may alert us at legal@deal.ai.
+
+CHANGES TO THIS PRIVACY POLICY
+We will post any adjustments to the Privacy Policy on this page, and the revised version will be effective when it is posted. If we materially change the ways in which we use or share Personal Information previously collected from you through our Site, we will attempt to notify you through our Site, by email, or other means.
+
+CONTACT INFORMATION
+Except as otherwise stated in our Terms of Service, we are responsible and the data controller for processing your Personal Information in connection with your use of our Site. If you have any questions, comments, or concerns about our processing activities, please email us at legal@deal.ai.
+
+deal.ai
+Attn: Legal Department (Privacy)
+2222 Ponce de Leon Blvd.
+Miami, FL 33134

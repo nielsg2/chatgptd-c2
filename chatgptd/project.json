@@ -1,0 +1,16 @@
+{
+  "name": "chatgptd",
+  "description": "Modular AI orchestration daemon with persistent local memory, OpenAI API bridge, CogStack cognitive layer, and task automation.",
+  "owner": "Niels Goldstein",
+  "repo": "chatgptd",
+  "version": "0.2.0",
+  "language": "Python + PowerShell",
+  "architecture": "Modular (Vibe-compliant)",
+  "memory_backend": "PostgreSQL",
+  "license": "MIT",
+  "status": "active",
+  "roadmap": "Roadmap_chatgptd_FULL.md",
+  "meta_tasks": "Meta_Tasks.yml",
+  "ai_directives": "AI_DIRECTIVES.txt",
+  "submodules": ["daemon", "ai_bridge", "memory", "tasks", "ui", "api_gateway", "local_agent", "filebot", "cognition/CogStack"]
+}

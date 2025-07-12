@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 9f072b9c9b16c6ec13868697512c53806c263f53 nielsg2 <65197501+nielsg2@users.noreply.github.com> 1750507997 -0400	commit (initial): 📘 COMMIT: Initial commit of AI_Directives.txt to main branch
+9f072b9c9b16c6ec13868697512c53806c263f53 6064368e03ab2e46c5b204ae495e558e4104680e nielsg2 <65197501+nielsg2@users.noreply.github.com> 1750508850 -0400	commit: 📘 COMMIT: Synced AI_Directives.txt with v0.2.10-dev fallback behavior enforcement
+6064368e03ab2e46c5b204ae495e558e4104680e 1075a2f5e396f8bed617c4b1dfaafc5505832d33 nielsg2 <65197501+nielsg2@users.noreply.github.com> 1750676104 -0400	commit: 🧠 Integrated CogStack as cognition module under chatgptd
+1075a2f5e396f8bed617c4b1dfaafc5505832d33 6fd98bfb75db4b79ffd3af2875d6dbe77f3f2a5e nielsg2 <65197501+nielsg2@users.noreply.github.com> 1750676376 -0400	commit: 🧠 Embedded CogStack as flat folder under cognition/
+6fd98bfb75db4b79ffd3af2875d6dbe77f3f2a5e 3e94c979b7902220012d64685dc202971f36fd83 nielsg2 <65197501+nielsg2@users.noreply.github.com> 1750683244 -0400	commit: 🚀 Prepare daemon for contributor-aware task logging
+3e94c979b7902220012d64685dc202971f36fd83 ffced0fb16adb976c28c78245fba4b252eb72f6b nielsg2 <65197501+nielsg2@users.noreply.github.com> 1750705768 -0400	commit: 🗂️ Sync LifePlan and placeholder files [2025-06-23 19:09:00]
+ffced0fb16adb976c28c78245fba4b252eb72f6b 4d4676f311e3312042a3d90868c96ca85e12f55a Niels Goldstein <nielsg2@users.noreply.github.com> 1752098846 -0400	pull: Fast-forward

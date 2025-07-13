@@ -64,3 +64,5 @@ another-command goes here
 - Step 1 for next session continuity
 - Reload: `AI_DIRECTIVES.txt`
 - Resume from: `command.json` or pending backlog
+
+<!-- ✅ Test write from OpenAI CLI context -->

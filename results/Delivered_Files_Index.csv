@@ -1,0 +1,5 @@
+NAME,LINK,DESTINATION,VERSION
+Invoke-OpenAI.ps1,download/Invoke-OpenAI.ps1,Utilsrepo\Scripts,1.1.0
+Run-SecureAudit.ps1,download/Run-SecureAudit.ps1,Utilsrepo\Scripts,1.0.0
+command.json,download/command.json,chatgptd-c2\,1.0.0
+architecture.aidl,download/architecture.aidl,chatgptd\,1.0.0

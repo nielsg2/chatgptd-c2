@@ -1,0 +1,4 @@
+NAME,LINK,DESTINATION,VERSION
+Delivered_Files_Index.csv,Delivered_Files_Index.csv,chatgptd-c2,2025.07
+command.json,command.json,chatgptd-c2,2025.07
+architecture.aidl,architecture.aidl,chatgptd,0.1.0

@@ -1,0 +1,30 @@
+# Session Memory — 2025-07-15
+
+## Context
+- Initiated creation of AI-Augmented Infrastructure toolkit and service offering under MurkyCloud.
+- Completed PDF one-pager with updated contact email.
+- Website planning: hero section, product brief, lead magnet, CTA workflow.
+
+## Goals
+- Scaffold MurkyCloud landing page copy.
+- Generate product brief and toolkit overview.
+- Build repo structure for agent code.
+
+## Actions Taken
+1. Generated and committed `ai_augmented_infra_onepager_updated.pdf`.
+2. Outlined productization plan: product (agent toolkit) + service (Zero Trust advisory).
+3. Drafted homepage copy blocks and CTA messaging.
+
+## Next Tasks
+- [ ] Generate homepage HTML snippet.
+- [ ] Create downloadable product brief (.md) for agent toolkit.
+- [ ] Scaffold `murkycloud-agent` repo layout with README and module stubs.
+- [ ] Draft LinkedIn banner text and CEO bio.
+- [ ] Prepare pitch email template for outreach.
+
+## Notes / Memory
+- All materials reference updated email: nielsg@murkycloud.com
+- Focus: mobile-first workflow via copy-paste commits.
+- CEO persona positioning: “Memory-aware AI Agent Infrastructure”.
+
+---

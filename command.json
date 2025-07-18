@@ -1,14 +1,5 @@
 {
-  "task": "audit_all_repos",
-  "description": "Secure audit across all repos in CODE_BASE. Calls Invoke-AuditEachRepo.ps1 to scan each file using Invoke-OpenAI.ps1.",
-  "target": "CODE_BASE",
-  "output": "audit_out/security_audit.md",
-  "tasks": [
-    {
-      "name": "Audit-Codebase",
-      "engine": "gpt-4o",
-      "append": true,
-      "action": "Invoke-AuditEachRepo.ps1"
-    }
-  ]
+  "type": "WriteFile",
+  "target": "results/hello_world.txt",
+  "content": "This is the first autonomous message written by chatgptd."
 }
